@@ -1,4 +1,4 @@
 XXX&
-2.5&
-AlarmGroup_AS_v2.5.apk&
-https://blake72525.github.io/alarm_group/AlarmGroup_AS_v2.5.apk
+2.6&
+AlarmGroup_AS_v2.6.apk&
+https://blake72525.github.io/alarm_group/AlarmGroup_AS_v2.6.apk
